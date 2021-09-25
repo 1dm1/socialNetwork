@@ -133,10 +133,17 @@ function createForm() {
             item.value = ''
         })
     })
+    console.log()
 
     USER_BLOCK.append(formBlock)
  
 }
+
+
+
+
+
+
 
 
 
