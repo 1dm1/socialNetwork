@@ -139,11 +139,6 @@ function createForm() {
  
 }
 
-function plus(num) {
-    console.log(num)
-}
-
-plus(2);
 
 
 
