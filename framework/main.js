@@ -6,7 +6,7 @@ import elementCreater from '/framework/utils/elementCreator'
 
 
 const currentUrl = window.location.hash
-console.log(currentUrl);
+
 
 
 
